@@ -1,7 +1,7 @@
 # Docker 실전 연습 예제입니다
 ### Installation
 <pre>
-cd /home
+cd /home/ubuntu
 git clone https://github.com/EoJin-Kim/Docker-Practice.git
 cd Docker-Practice
 </pre>
