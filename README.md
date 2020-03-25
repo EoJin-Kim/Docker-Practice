@@ -8,6 +8,7 @@ cd Docker-Practice
 
 ### Run
 # Login For Private Docker Repository
+<pre>
 docker login
 docker pull linexy/docker-practice
 docker run -p 80:80 -v /home/ubuntu/Docker-Practice/Project:/var/www/html linexy/docker-practice
